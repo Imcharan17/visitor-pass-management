@@ -1,0 +1,5 @@
+.employee-active.inactive{color:#a27870}.employee-active.inactive i{background:#c5897f}
+.sidebar-signout{width:100%;display:flex;align-items:center;gap:8px;padding:10px 13px 1px;border:0;background:transparent;color:#8c6761;font-size:10px;text-align:left}.sidebar-signout:hover{color:#a14f45}
+.sidebar{overflow-y:auto;scrollbar-width:thin}.top-signout{display:inline-flex;align-items:center;gap:6px;padding:6px 9px;border:1px solid #e7ebef;border-radius:7px;background:#fff;color:#73808b;font-size:10px}.top-signout:hover{color:#a14f45;background:#fff9f8}@media(max-width:560px){.top-signout{padding:6px}.top-signout span{display:none}}
+.user-actions{display:flex;align-items:center;gap:9px}.user-actions .text-link{font-size:9px}
+.password-field{position:relative;display:block;width:100%}.password-field input{padding-right:38px!important}.password-toggle{position:absolute;right:8px;top:50%;transform:translateY(-50%);display:grid;place-items:center;width:26px;height:26px;border:0;border-radius:5px;background:transparent;color:#87939d;padding:0}.password-toggle:hover{background:#f1f4f6;color:#47627a}
